@@ -1,0 +1,10 @@
+<script>
+              if (typeof BSS_PL == 'undefined') {
+                  var BSS_PL = {};
+              }
+              BSS_PL.customerTags = {% if customer %}'{%for tag in customer.tags%}{{ tag }},{% endfor %}'{% else %}'null'{% endif %}
+              BSS_PL.configData = [{"name":"New!","priority":0,"img_url":"","pages":"2,3,4,7","enable_allowed_countries":false,"locations":"","position":0,"fixed_percent":1,"width":16,"height":7,"product_type":1,"product":"","collection":"","inventory":0,"tags":"","enable_visibility_date":false,"from_date":null,"to_date":null,"enable_discount_range":false,"discount_type":1,"discount_from":null,"discount_to":null,"public_img_url":"","label_text":"New%21","label_text_color":"#ffffff","label_text_font_size":12,"label_text_background_color":"#d6beb2","label_text_no_image":1,"label_text_in_stock":"In Stock","label_text_out_stock":"Sold out","label_shadow":0,"label_opacity":100,"label_border_radius":0,"label_text_style":0,"label_shadow_color":"#808080","label_text_enable":1,"related_product_tag":null,"customer_tags":null,"customer_type":"allcustomers","label_on_image":"2","first_image_tags":null}];
+              BSS_PL.storeId = 3673;
+              BSS_PL.currentPlan = "false";
+              </script>
+          

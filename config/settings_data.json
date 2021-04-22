@@ -1,0 +1,1879 @@
+{
+  "current": {
+    "text_color": "#6e655d",
+    "bg_color": "#ffffff",
+    "secondary_bg_color": "#fbf9f4",
+    "accent_bright": "#dcc5b9",
+    "accent_secondary": "#bfc2ad",
+    "site_border_color": "rgba(0,0,0,0)",
+    "link_color": "#6e655d",
+    "link_hover_color": "#c79483",
+    "header_bg": "#ffffff",
+    "header_link": "#6e655d",
+    "header_link_hover": "#bfc2ad",
+    "menu_bg_color": "#ffffff",
+    "menu_border_color": "rgba(0,0,0,0)",
+    "menu_link_color": "#6e655d",
+    "menu_link_hover_color": "#c79483",
+    "submenu_bg_color": "#fbf9f4",
+    "submenu_link_color": "#6e655d",
+    "submenu_link_hover_color": "#c79483",
+    "menu_transparent_color": "#ffffff",
+    "footer_bg": "#ffffff",
+    "footer_text": "#6e655d",
+    "footer_link": "#6e655d",
+    "footer_link_hover": "#c79483",
+    "type_heading_font": "caslon_old_face_n4",
+    "type_heading_size": 90,
+    "type_base_font": "basic_commercial_n3",
+    "type_body_size": 95,
+    "button_border_radius": 0,
+    "animations_enable": true,
+    "endless_scroll": true,
+    "enable_disqus": false,
+    "disqus_shortname": "",
+    "enable_product_reviews": true,
+    "enable_yotpo": false,
+    "yotpo_ID": "",
+    "instagram_link": "https:\/\/www.instagram.com\/annabeckdesigns\/",
+    "facebook_link": "https:\/\/www.facebook.com\/AnnaBeckDesigns\/",
+    "twitter_link": "",
+    "youtube_link": "",
+    "vimeo_link": "",
+    "pinterest_link": "https:\/\/www.pinterest.com\/annabeckdesigns\/",
+    "tumblr_link": "",
+    "atom_link": "",
+    "share_facebook": true,
+    "share_twitter": true,
+    "share_pinterest": true,
+    "social_home_image": "",
+    "color_swatches": true,
+    "variant_lines": true,
+    "image_hover_enable": true,
+    "product_grid_aspect_ratio": 1,
+    "sale_tags_enable": true,
+    "sale_background_color": "#6e655d",
+    "sale_text_color": "#ffffff",
+    "quickview_enable": false,
+    "quickview_buybutton_enable": false,
+    "enable_video_looping": true,
+    "show_promo_modal": false,
+    "promo_dev_mode": false,
+    "promo_modal_subtitle": "Broadcast",
+    "promo_modal_title": "Newsletter",
+    "promo_modal_richtext": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.<\/p>",
+    "promo_button_text": "Join",
+    "promo_image": "",
+    "promo_bg_color": "#fff",
+    "promo_text_color": "dark",
+    "favicon": "shopify:\/\/shop_images\/AB-Icon_4aca21d6-48eb-46f5-aef0-1ab6d1909d2f.png",
+    "show_multiple_currencies": false,
+    "currency_format": "money_with_currency_format",
+    "supported_currencies": "INR GBP CAD USD AUD EUR JPY",
+    "default_currency": "USD",
+    "checkout_header_image": "",
+    "checkout_logo_image": "shopify:\/\/shop_images\/AnnaBeck_Logo-2018-wordmark_040f0b68-a715-432c-8649-d96eb6fb18b1.png",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "small",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#fff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#fafafa",
+    "checkout_heading_font": "Garamond, Baskerville, 'Baskerville Old Face', 'Hoefler Text', 'Times New Roman'",
+    "checkout_body_font": "Garamond, Baskerville, 'Baskerville Old Face', 'Hoefler Text', 'Times New Roman'",
+    "checkout_accent_color": "#dcc5b9",
+    "checkout_button_color": "#6e655d",
+    "checkout_error_color": "#c85c42",
+    "sections": {
+      "header": {
+        "type": "header",
+        "settings": {
+          "logo_image": "shopify:\/\/shop_images\/AnnaBeck_Logo-2018-wordmark.png",
+          "logo_image_width": 200,
+          "header_style": "sticky",
+          "header_transparent_home": false,
+          "header_transparent_collection": false,
+          "show_header_social": false,
+          "show_header_search": true,
+          "show_account": true,
+          "message": true,
+          "message_text": "free ground shipping worldwide!",
+          "message_detail": "",
+          "message_link": "shopify:\/\/pages\/shipping-returns",
+          "color_bg": "#dcc5b9",
+          "color_text": "#545454",
+          "menu_primary": "new-main-menu"
+        }
+      },
+      "product": {
+        "type": "product",
+        "blocks": {
+          "product-tab-1": {
+            "type": "tab_richtext",
+            "settings": {
+              "title": "Our Sizing",
+              "raw_content": "<p><a href=\"https:\/\/www.annabeck.com\/pages\/ring-sizing\" title=\"https:\/\/www.annabeck.com\/pages\/ring-sizing\"><span style=\"text-decoration:underline\"><strong>Ring size guide<\/strong><\/span><\/a><\/p><p><a href=\"\/blogs\/features\/your-guide-to-necklace-lengths\" title=\"Your Guide to Necklace Lengths\"><span style=\"text-decoration:underline\"><strong>Necklace size guide<\/strong><\/span><\/a><\/p><p><a href=\"https:\/\/www.annabeck.com\/blogs\/features\/your-guide-to-hoop-sizes\" title=\"https:\/\/www.annabeck.com\/blogs\/features\/your-guide-to-hoop-sizes\"><span style=\"text-decoration:underline\"><strong>Hoop size guide<\/strong><\/span><\/a><\/p>"
+            }
+          },
+          "product-tab-2": {
+            "type": "tab_richtext",
+            "settings": {
+              "title": "Return Policy",
+              "raw_content": "<p><strong>Full-priced items:<\/strong> we will accept items purchased on annabeck.com for a full refund, exchange or store credit within 5 days of receiving shipment, less shipping costs.<\/p><p><\/p><p><strong>Sale section items:<\/strong> final sale, no price adjustments.<\/p><p><\/p><p><strong>Personalized jewelry:<\/strong> final sale.<\/p><p><\/p><p><a href=\"\/pages\/shipping-returns\" title=\"Shipping &amp; Returns\"><span style=\"text-decoration:underline\"><strong>READ MORE<\/strong><\/span><\/a>.<\/p>"
+            }
+          },
+          "product-tab-3": {
+            "type": "tab_richtext",
+            "settings": {
+              "title": "Shipping",
+              "raw_content": "<p>Free ground shipping on all orders.<\/p><p><\/p><p><strong>International orders: You may be subject to import duties and taxes once a shipment reaches your country.<\/strong> Additional customs clearance charges must be paid by you; Anna Beck has no control over these charges and cannot predict what they may be. <a href=\"\/pages\/shipping-returns\" title=\"Shipping &amp; Returns\"><strong>READ MORE<\/strong><\/a><strong>.<\/strong><\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "product-tab-1",
+          "product-tab-2",
+          "product-tab-3"
+        ],
+        "settings": {
+          "image_layout": "thumbnails",
+          "product_sticky_enable": false,
+          "show_breadcrumbs": true,
+          "show_share_buttons": false,
+          "product_show_vendor": false,
+          "show_payment_button": false,
+          "show_cart_bar": false,
+          "cart_bar_position": "bottom",
+          "tabs_enable": true,
+          "enable_video_looping": false
+        }
+      },
+      "page-contact": {
+        "type": "page-contact",
+        "blocks": {
+          "contact-1": {
+            "type": "text",
+            "settings": {
+              "title": "Full Name"
+            }
+          },
+          "contact-2": {
+            "type": "email",
+            "settings": {
+              "title": "Email"
+            }
+          },
+          "contact-3": {
+            "type": "body",
+            "settings": {
+              "title": "Message"
+            }
+          },
+          "contact-4": {
+            "type": "spacer",
+            "settings": {
+              "line": false
+            }
+          },
+          "contact-5": {
+            "type": "formHeading",
+            "settings": {
+              "title": "Optional:"
+            }
+          },
+          "contact-6": {
+            "type": "checkbox",
+            "settings": {
+              "title": "Subscribe to the newsletter"
+            }
+          },
+          "contact-7": {
+            "type": "select",
+            "settings": {
+              "title": "How did you hear about us:",
+              "label-one": "- Pick an option -",
+              "label-two": "Instagram \/ Facebook",
+              "label-three": "Web search",
+              "label-four": "Print Ad",
+              "label-five": "From a friend",
+              "label-six": ""
+            }
+          }
+        },
+        "block_order": [
+          "contact-1",
+          "contact-2",
+          "contact-3",
+          "contact-4",
+          "contact-5",
+          "contact-6",
+          "contact-7"
+        ],
+        "settings": {
+          "title": ""
+        }
+      },
+      "index-hero": {
+        "type": "index-hero",
+        "settings": {
+          "image": "shopify:\/\/shop_images\/classics_e6470740-a932-4dd8-82fb-5cf22da8d287.jpg",
+          "parallax": true,
+          "height": "screen-height-two-thirds",
+          "overlay_opacity": 0,
+          "overlay_color": "#6e655d",
+          "title": "Keep it Classic",
+          "description": "Our tried and true, bestsellers for a reason",
+          "flex_align": "align--bottom-right",
+          "text_color": "text-light",
+          "transparent": true,
+          "link_text": "SHOP NOW",
+          "link": "shopify:\/\/collections\/classic-collection"
+        }
+      },
+      "index-image-with-text": {
+        "type": "index-image-with-text",
+        "disabled": true,
+        "settings": {
+          "title": "HEADLINE",
+          "content": "<p>This area is used to showcase a product, collection, or your brand.<\/p><p><\/p><p><a href=\"\/collections\/ab-stacks\" title=\"AB Stacks\"><span style=\"text-decoration:underline\"><strong>SHOP NOW<\/strong><\/span><\/a><\/p>",
+          "color": "#545454",
+          "background": "#fbf9f4",
+          "image": "shopify:\/\/shop_images\/IMG_1340_1.jpg",
+          "height": "image-height",
+          "image_alignment": "reverse",
+          "overlay_opacity": 0,
+          "overlay_color": "#ffffff",
+          "button_text": "",
+          "video_link": "",
+          "button_type": "filled",
+          "button_colors": "#ffffff"
+        }
+      },
+      "index-slideshow": {
+        "type": "index-slideshow",
+        "disabled": true,
+        "blocks": {
+          "index-slideshow-0": {
+            "type": "image",
+            "settings": {
+              "overlay_opacity": 0,
+              "overlay_color": "#ffffff",
+              "title": "Image slide",
+              "description": "Tell your brand's story through images.",
+              "flex_align": "align--middle-center",
+              "text_color": "text-dark",
+              "transparent": true,
+              "link_text": "View products"
+            }
+          },
+          "index-slideshow-1": {
+            "type": "image",
+            "settings": {
+              "overlay_opacity": 0,
+              "overlay_color": "#ffffff",
+              "title": "Image slide",
+              "description": "Tell your brand's story through images.",
+              "flex_align": "align--middle-center",
+              "text_color": "text-dark",
+              "transparent": true,
+              "link_text": "View products"
+            }
+          }
+        },
+        "block_order": [
+          "index-slideshow-0",
+          "index-slideshow-1"
+        ],
+        "settings": {
+          "autoplay": false,
+          "autoplay_speed": 8,
+          "height": "screen-height-one-half",
+          "show_dots": false
+        }
+      },
+      "index-collections-list": {
+        "type": "index-collections-list",
+        "blocks": {
+          "index-collections-list-1": {
+            "type": "collection",
+            "settings": {
+              "collection": "handmade-necklaces",
+              "title": "Necklaces"
+            }
+          },
+          "index-collections-list-2": {
+            "type": "collection",
+            "settings": {
+              "collection": "handmade-earrings",
+              "title": "Earrings"
+            }
+          },
+          "index-collections-list-0": {
+            "type": "collection",
+            "settings": {
+              "collection": "handmade-rings",
+              "title": "Rings"
+            }
+          }
+        },
+        "block_order": [
+          "index-collections-list-1",
+          "index-collections-list-2",
+          "index-collections-list-0"
+        ],
+        "settings": {
+          "title": "Featured Collections",
+          "arrows_style": "dark"
+        }
+      },
+      "index-background-video": {
+        "type": "index-background-video",
+        "disabled": true,
+        "settings": {
+          "hero_video_link": "https:\/\/vimeo.com\/384023132",
+          "enable_sound": false,
+          "height": "screen-height-two-thirds",
+          "overlay_opacity": 0,
+          "overlay_color": "#ffffff",
+          "title": "",
+          "main_subheading": "",
+          "flex_align": "align--middle-center",
+          "text_color": "text-dark",
+          "transparent": true,
+          "btn_text": ""
+        }
+      },
+      "index-look": {
+        "type": "index-look",
+        "disabled": true,
+        "blocks": {
+          "index-look-0": {
+            "type": "product",
+            "settings": {
+              "product": "engravable-bar-necklace-gold",
+              "image": "shopify:\/\/shop_images\/engravable.jpg",
+              "position_x": 69,
+              "position_y": 57
+            }
+          },
+          "index-look-1": {
+            "type": "product",
+            "settings": {
+              "product": "apatite-cocktail-ring",
+              "image": "shopify:\/\/shop_images\/AB-Mosaic_58cae72b-f2b3-4d09-a17f-f3949a2a7c03.jpg",
+              "position_x": 68,
+              "position_y": 31
+            }
+          },
+          "1584117544288": {
+            "type": "product",
+            "settings": {
+              "product": "turquoise-pave-stacking-ring-gold",
+              "image": "shopify:\/\/shop_images\/AB-rings_1d67d6e8-f1ef-4681-9efb-7fc27d08be3d.jpg",
+              "position_x": 51,
+              "position_y": 51
+            }
+          }
+        },
+        "block_order": [
+          "index-look-0",
+          "index-look-1",
+          "1584117544288"
+        ],
+        "settings": {
+          "title": "Shop the look",
+          "section_bg": "#fafafa",
+          "dot_color": "#ffffff"
+        }
+      },
+      "index-blog": {
+        "type": "index-blog",
+        "settings": {
+          "blog_name": "journal",
+          "title": "Our Journal",
+          "blog_text": "",
+          "grid": 4,
+          "rows": 1,
+          "show_author": false,
+          "show_date": false,
+          "show_button": true,
+          "show_tags": false,
+          "overlay_opacity": 0,
+          "overlay_color": "#000000"
+        }
+      },
+      "index-rich-text": {
+        "type": "index-rich-text",
+        "disabled": true,
+        "settings": {
+          "title": "Crafted by Heritage Artisans in Bali",
+          "text": "<p>At Anna Beck, traditional Balinese jewelry techniques are used by immensely skilled artisans who create each piece by hand—so no two pieces are alike.<\/p>",
+          "button_text": ""
+        }
+      },
+      "index-newsletter": {
+        "type": "index-newsletter",
+        "settings": {
+          "title": "Let’s make a connection.",
+          "richtext": "<p>Join our Inner Circle &amp; get 10% off your first purchase.<\/p>",
+          "width": "full",
+          "flex_align": "align--middle-center",
+          "text_color": "dark",
+          "height": "screen-height-one-third",
+          "overlay_opacity": 0,
+          "overlay_color": "#ffffff"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "1584043838056": {
+            "type": "linklist",
+            "settings": {
+              "linklist": "support"
+            }
+          },
+          "1584043857300": {
+            "type": "linklist",
+            "settings": {
+              "linklist": "company"
+            }
+          },
+          "1587142753376": {
+            "type": "social",
+            "settings": {
+              "title": "Social",
+              "richtext": ""
+            }
+          }
+        },
+        "block_order": [
+          "1584043838056",
+          "1584043857300",
+          "1587142753376"
+        ],
+        "settings": {
+          "logo_image_width": 150,
+          "overlay_opacity": 15,
+          "overlay_color": "#000000",
+          "footer_secondary_linklist": "",
+          "footer_payment_enable": false
+        }
+      },
+      "collection": {
+        "type": "collection",
+        "settings": {
+          "enable_sort": true,
+          "filter_mode": "group",
+          "plus_enable_custom_filters": true,
+          "show_title": true,
+          "show_description": true,
+          "text_color": "text-dark",
+          "flex_align": "align--middle-left",
+          "transparent": false,
+          "show_image": false,
+          "banner_layout": "overlay",
+          "height": "screen-height-one-third",
+          "parallax": false,
+          "overlay_opacity": 0,
+          "overlay_color": "#000000",
+          "grid": 4,
+          "enable_reviews": false,
+          "show_featured_image": false,
+          "featured_image": "shopify:\/\/shop_images\/Story_Highlights_-_Redesign-02.jpg",
+          "featured_heading": "Stack Your Savings:",
+          "featured_text": "<p>Buy two rings or bracelets, save 10%<\/p><p>Buy three or more rings or bracelets, save 15%<\/p><p>Discount automatically reflected at checkout<\/p>",
+          "featured_button_text": "SHOP NOW",
+          "featured_button_link": "shopify:\/\/collections\/shop-all",
+          "featured_color_text": "#6e655d",
+          "featured_color_overlay": "#222222",
+          "featured_overlay_opacity": 0
+        }
+      },
+      "related": {
+        "type": "related",
+        "settings": {
+          "related_products_enable": true,
+          "limit": 4,
+          "product_recommendations_heading": "STYLE WITH",
+          "show_recently_viewed": false,
+          "product_recently_limit": 4,
+          "product_recently_heading": "Recently viewed"
+        }
+      },
+      "1587135534926": {
+        "type": "index-products",
+        "disabled": true,
+        "settings": {
+          "featured_collection": "new-arrivals",
+          "title": "New Arrivals",
+          "grid": 6,
+          "rows": 1,
+          "enable_reviews": false,
+          "scroll": "horizontally",
+          "arrows_style": "dark"
+        }
+      },
+      "1587135831283": {
+        "type": "index-image-with-text",
+        "disabled": true,
+        "settings": {
+          "title": "Handmade Jewelry Crafted by Artisans",
+          "content": "<p>At Anna Beck, traditional jewelry techniques are used by immensely skilled artisans in Bali who create each piece by hand—so no two pieces are alike.<\/p>",
+          "color": "#6e655d",
+          "background": "#fbf9f4",
+          "height": "screen-height-three-quarters",
+          "image_alignment": "natural",
+          "overlay_opacity": 0,
+          "overlay_color": "#ffffff",
+          "button_text": "READ MORE",
+          "button_link": "shopify:\/\/pages\/our-story",
+          "video_link": "",
+          "button_type": "filled",
+          "button_colors": "#fbf9f4"
+        }
+      },
+      "1587141081379": {
+        "type": "index-rich-text",
+        "disabled": true,
+        "settings": {
+          "title": "",
+          "text": "<p><em>This season&#x27;s picks from our founder and designer, Becky Hosmer.<\/em><\/p>",
+          "button_text": ""
+        }
+      },
+      "list-collections": {
+        "type": "list-collections",
+        "blocks": {
+          "6ca23226-9f5e-4066-834b-e1be27543b51": {
+            "type": "collection",
+            "settings": {
+              "collection": "earth-stones",
+              "collection_name": "Earth Stones",
+              "image": "shopify:\/\/shop_images\/1_8481d3bf-badd-4ad7-9718-caddc92bd16a.jpg"
+            }
+          },
+          "1602605599745": {
+            "type": "collection",
+            "settings": {
+              "collection": "reimagined-pearl",
+              "collection_name": "",
+              "image": "shopify:\/\/shop_images\/1_34da24f6-a817-409c-ab2b-77456b7b4aeb.jpg"
+            }
+          },
+          "1591107017840": {
+            "type": "collection",
+            "settings": {
+              "collection": "rasa",
+              "collection_name": ""
+            }
+          },
+          "1602605918108": {
+            "type": "collection",
+            "settings": {
+              "collection": "dome-collection",
+              "collection_name": "",
+              "image": "shopify:\/\/shop_images\/4_3cebf622-8cfd-4215-b37a-e1bb18426476.jpg"
+            }
+          },
+          "1587225447351": {
+            "type": "collection",
+            "settings": {
+              "collection": "classic-collection",
+              "collection_name": "Classics",
+              "image": "shopify:\/\/shop_images\/5_ac526964-d046-4c0f-81bc-44b2ce6b815a.jpg"
+            }
+          },
+          "1598452303182": {
+            "type": "collection",
+            "settings": {
+              "collection": "hammered",
+              "collection_name": ""
+            }
+          },
+          "1587225487668": {
+            "type": "collection",
+            "settings": {
+              "collection": "solstice",
+              "collection_name": ""
+            }
+          },
+          "1587225407399": {
+            "type": "collection",
+            "settings": {
+              "collection": "mosaic",
+              "collection_name": ""
+            }
+          },
+          "1587225436477": {
+            "type": "collection",
+            "settings": {
+              "collection": "sheldrick-collection",
+              "collection_name": ""
+            }
+          },
+          "1587225397314": {
+            "type": "collection",
+            "settings": {
+              "collection": "bumi-sehat-collection",
+              "collection_name": ""
+            }
+          }
+        },
+        "block_order": [
+          "6ca23226-9f5e-4066-834b-e1be27543b51",
+          "1602605599745",
+          "1591107017840",
+          "1602605918108",
+          "1587225447351",
+          "1598452303182",
+          "1587225487668",
+          "1587225407399",
+          "1587225436477",
+          "1587225397314"
+        ],
+        "settings": {
+          "display_type": "selected",
+          "title": "Collections",
+          "grid": 6,
+          "rows": 1,
+          "enable_reviews": false,
+          "scroll": "horizontally"
+        }
+      },
+      "recommended-products": {
+        "type": "recommended-products",
+        "settings": {
+          "heading": "Recommended products",
+          "related_tag": "",
+          "number_of_products": "4"
+        }
+      },
+      "1589999440339": {
+        "type": "index-collections-list",
+        "disabled": true,
+        "blocks": {
+          "1589999440339-2": {
+            "type": "collection",
+            "settings": {
+              "collection": "most-gifted",
+              "title": ""
+            }
+          },
+          "1589999440339-1": {
+            "type": "collection",
+            "settings": {
+              "collection": "gifts-for-mom",
+              "title": "Gifts For Moms"
+            }
+          },
+          "1589999440339-0": {
+            "type": "collection",
+            "settings": {
+              "collection": "gifts-under-175",
+              "title": ""
+            }
+          },
+          "1589999440339-3": {
+            "type": "collection",
+            "settings": {
+              "collection": "trending-gifts",
+              "title": ""
+            }
+          }
+        },
+        "block_order": [
+          "1589999440339-2",
+          "1589999440339-1",
+          "1589999440339-0",
+          "1589999440339-3"
+        ],
+        "settings": {
+          "title": "Gift Guides",
+          "arrows_style": "light"
+        }
+      },
+      "article": {
+        "type": "article",
+        "settings": {
+          "image_height": "screen-height-one-third",
+          "meta": false,
+          "tags": false,
+          "social": false,
+          "arrows": false,
+          "tag_nav_enable": false,
+          "blog_linklist": "",
+          "recent": false,
+          "sidebar_products": true,
+          "pinterest": false
+        }
+      },
+      "cart": {
+        "type": "cart",
+        "settings": {
+          "allow_note": true,
+          "allow_tax_text": true,
+          "custom_tax_text": "",
+          "shipping_calculator": true,
+          "shipping_calculator_default_country": "United States",
+          "cart_show_additional_buttons": true
+        }
+      },
+      "1594251862495": {
+        "type": "index-rich-text",
+        "disabled": true,
+        "settings": {
+          "title": "",
+          "text": "",
+          "button_text": "SHOP THE ENTIRE COLLECTION",
+          "button_url": "shopify:\/\/collections\/ivannahs-picks"
+        }
+      },
+      "1596480879622": {
+        "type": "index-image-with-text",
+        "disabled": true,
+        "settings": {
+          "title": "Summer Sample Sale",
+          "content": "<p>Our famous sample sale is online for a very limited time! One-of-a-kind design samples and last chance pieces at 30-50% off!<\/p>",
+          "color": "#6e655d",
+          "background": "#fbf9f4",
+          "image": "shopify:\/\/shop_images\/samplesale.jpg",
+          "height": "screen-height-one-half",
+          "image_alignment": "reverse",
+          "overlay_opacity": 0,
+          "overlay_color": "#ffffff",
+          "button_text": "SHOP NOW",
+          "button_link": "shopify:\/\/collections\/summer-sample-sale-2020",
+          "video_link": "",
+          "button_type": "filled",
+          "button_colors": "#ffffff"
+        }
+      },
+      "1596481211479": {
+        "type": "index-rich-text",
+        "disabled": true,
+        "settings": {
+          "title": "",
+          "text": "",
+          "button_text": ""
+        }
+      },
+      "1597340037813": {
+        "type": "index-hero",
+        "settings": {
+          "image": "shopify:\/\/shop_images\/Story_Highlights_-_Redesign-02.jpg",
+          "parallax": false,
+          "height": "screen-height-one-third",
+          "overlay_opacity": 0,
+          "overlay_color": "#ffffff",
+          "title": "Earn Rewards",
+          "description": "Join Anna Beck Rewards and earn points with every purchase to redeem discounts, early access to new collections, and more.",
+          "flex_align": "align--middle-center",
+          "text_color": "text-light",
+          "transparent": true,
+          "link_text": "LEARN MORE",
+          "link": "shopify:\/\/pages\/anna-beck-rewards"
+        }
+      },
+      "1603136718486": {
+        "type": "index-background-video",
+        "settings": {
+          "hero_video_link": "https:\/\/vimeo.com\/469920291",
+          "enable_sound": false,
+          "height": "screen-height-one-third",
+          "overlay_opacity": 0,
+          "overlay_color": "#ffffff",
+          "title": "",
+          "main_subheading": "",
+          "flex_align": "align--middle-center",
+          "text_color": "text-dark",
+          "transparent": true,
+          "btn_text": ""
+        }
+      },
+      "1603216145766": {
+        "type": "index-video",
+        "disabled": true,
+        "settings": {
+          "title": "Video",
+          "content": "<p>Describe in a few words your special products, collection, or brand.<\/p>",
+          "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+          "logo_max_width": 100,
+          "height": "screen-height-two-thirds",
+          "text_color": "text-dark",
+          "overlay_opacity": 15,
+          "overlay_color": "#ffffff"
+        }
+      },
+      "1603216442029": {
+        "type": "index-text-row",
+        "disabled": true,
+        "blocks": {
+          "1603216442029-0": {
+            "type": "text-item",
+            "settings": {
+              "icon_name": "icon-lock-card",
+              "icon_color": "#aaaaaa",
+              "title": "Secure transactons",
+              "text": "Transactions are handled with bank-grade security"
+            }
+          },
+          "1603216442029-1": {
+            "type": "text-item",
+            "settings": {
+              "icon_name": "icon-basket-like",
+              "icon_color": "#aaaaaa",
+              "title": "Simple checkout",
+              "text": "Our secure checkout is quick and easy to use."
+            }
+          },
+          "1603216442029-2": {
+            "type": "text-item",
+            "settings": {
+              "icon_name": "icon-chat",
+              "icon_color": "#aaaaaa",
+              "title": "Get in touch",
+              "text": "Have questions? Get in touch with us at any time."
+            }
+          }
+        },
+        "block_order": [
+          "1603216442029-0",
+          "1603216442029-1",
+          "1603216442029-2"
+        ],
+        "settings": {
+          "text_alignment": "left",
+          "icon_size": "icon--small",
+          "icon_alignment": "icon--top",
+          "bg_color": "#fafafa",
+          "text_color": "#545454"
+        }
+      },
+      "1603216546442": {
+        "type": "index-rich-text",
+        "disabled": true,
+        "settings": {
+          "title": "Always Handmade",
+          "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+          "button_text": "Learn More"
+        }
+      },
+      "1603216640585": {
+        "type": "index-hero",
+        "settings": {
+          "image": "shopify:\/\/shop_images\/Pattern.jpg",
+          "parallax": false,
+          "height": "screen-height-one-third",
+          "overlay_opacity": 90,
+          "overlay_color": "#fbf9f4",
+          "title": "",
+          "description": "At Anna Beck, traditional jewelry techniques are used by immensely skilled artisans in Bali who create each piece by hand—so no two pieces are alike.",
+          "flex_align": "align--middle-center",
+          "text_color": "text-dark",
+          "transparent": true,
+          "link_text": "LEARN MORE",
+          "link": "shopify:\/\/pages\/our-story"
+        }
+      },
+      "1611690078b913a72f": {
+        "type": "index-hero",
+        "disabled": true,
+        "settings": {
+          "image": "shopify:\/\/shop_images\/Pattern.jpg",
+          "parallax": false,
+          "height": "screen-height-one-third",
+          "overlay_opacity": 90,
+          "overlay_color": "#ffffff",
+          "title": "",
+          "description": "Shop our famous sample sale, now online",
+          "flex_align": "align--middle-center",
+          "text_color": "text-dark",
+          "transparent": true,
+          "link_text": "SHOP NOW",
+          "link": "shopify:\/\/collections\/winter-2021-sample-sale"
+        }
+      }
+    },
+    "content_for_index": [
+      "index-hero",
+      "index-image-with-text",
+      "index-collections-list",
+      "1589999440339",
+      "1611690078b913a72f",
+      "1603136718486",
+      "1603216640585",
+      "1587135831283",
+      "1596481211479",
+      "1596480879622",
+      "1587141081379",
+      "1594251862495",
+      "index-background-video",
+      "index-rich-text",
+      "1587135534926",
+      "index-blog",
+      "index-slideshow",
+      "index-look",
+      "1597340037813",
+      "index-newsletter",
+      "1603216145766",
+      "1603216442029",
+      "1603216546442"
+    ]
+  },
+  "presets": {
+    "Clean": {
+      "text_color": "#545454",
+      "bg_color": "#ffffff",
+      "secondary_bg_color": "#F7F7F7",
+      "accent_bright": "#b1945c",
+      "accent_secondary": "#8191a4",
+      "site_border_color": "#F0F0F0",
+      "link_color": "#545454",
+      "link_hover_color": "#b1945c",
+      "header_bg": "#ffffff",
+      "header_link": "#545454",
+      "header_link_hover": "#b1945c",
+      "menu_bg_color": "#ffffff",
+      "menu_border_color": "#F0F0F0",
+      "menu_link_color": "#545454",
+      "menu_link_hover_color": "#b1945c",
+      "submenu_bg_color": "#ffffff",
+      "submenu_link_color": "#545454",
+      "submenu_link_hover_color": "#c5aa76",
+      "footer_bg": "#ffffff",
+      "footer_text": "#545454",
+      "footer_link": "#545454",
+      "footer_link_hover": "#b1945c",
+      "type_heading_font": "century_gothic_n7",
+      "type_heading_size": 90,
+      "type_base_font": "century_gothic_n4",
+      "type_body_size": 95,
+      "animations_enable": true,
+      "image_hover_enable": true,
+      "sale_tags_enable": true,
+      "sale_background_color": "#be563f",
+      "sale_text_color": "#ffffff",
+      "show_promo_modal": false,
+      "promo_dev_mode": false,
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "checkout_body_background_color": "#fff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_color": "#fafafa",
+      "checkout_heading_font": "Open Sans",
+      "checkout_body_font": "Open Sans",
+      "checkout_accent_color": "#c5aa76",
+      "checkout_button_color": "#c5aa76",
+      "checkout_error_color": "#c85c42",
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "show_header_social": true,
+            "show_header_search": true,
+            "show_account": true,
+            "message": false,
+            "color_bg": "#efeeec",
+            "color_text": "#545454",
+            "menu_primary": "main-menu"
+          }
+        },
+        "product": {
+          "type": "product",
+          "blocks": {
+            "product-tab-1": {
+              "type": "tab_richtext",
+              "settings": {
+                "title": "First",
+                "raw_content": "<p>This tab content type will accept <strong>rich text<\/strong> to help with adding styles and links to additional pages or content. Use this to add supplementary information to help your buyers.<\/p>"
+              }
+            },
+            "product-tab-2": {
+              "type": "tab_richtext",
+              "settings": {
+                "title": "Second",
+                "raw_content": "<p>This tab content type will accept <strong>rich text<\/strong> to help with adding styles and links to additional pages or content. Use this to add supplementary information to help your buyers.<\/p>"
+              }
+            },
+            "product-tab-3": {
+              "type": "tab_richtext",
+              "settings": {
+                "title": "Third",
+                "raw_content": "<p>This tab content type will accept <strong>rich text<\/strong> to help with adding styles and links to additional pages or content. Use this to add supplementary information to help your buyers.<\/p>"
+              }
+            }
+          },
+          "block_order": [
+            "product-tab-1",
+            "product-tab-2",
+            "product-tab-3"
+          ],
+          "settings": {
+            "image_layout": "stacked",
+            "product_sticky_enable": true,
+            "show_breadcrumbs": true,
+            "show_share_buttons": true,
+            "product_show_vendor": false,
+            "show_payment_button": true,
+            "tabs_enable": true
+          }
+        },
+        "page-contact": {
+          "type": "page-contact",
+          "blocks": {
+            "contact-1": {
+              "type": "text",
+              "settings": {
+                "title": "Full Name"
+              }
+            },
+            "contact-2": {
+              "type": "email",
+              "settings": {
+                "title": "Email"
+              }
+            },
+            "contact-3": {
+              "type": "body",
+              "settings": {
+                "title": "Message"
+              }
+            },
+            "contact-4": {
+              "type": "spacer",
+              "settings": {
+                "line": false
+              }
+            },
+            "contact-5": {
+              "type": "formHeading",
+              "settings": {
+                "title": "Optional:"
+              }
+            },
+            "contact-6": {
+              "type": "checkbox",
+              "settings": {
+                "title": "Subscribe to the newsletter"
+              }
+            },
+            "contact-7": {
+              "type": "select",
+              "settings": {
+                "title": "How did you hear about us:",
+                "label-one": "- Pick an option -",
+                "label-two": "Instagram \/ Facebook",
+                "label-three": "Web search",
+                "label-four": "Print Ad",
+                "label-five": "From a friend",
+                "label-six": ""
+              }
+            }
+          },
+          "block_order": [
+            "contact-1",
+            "contact-2",
+            "contact-3",
+            "contact-4",
+            "contact-5",
+            "contact-6",
+            "contact-7"
+          ],
+          "settings": {
+            "title": ""
+          }
+        },
+        "index-hero": {
+          "type": "index-hero",
+          "settings": {
+            "parallax": false,
+            "height": "screen-height-two-thirds",
+            "overlay_opacity": 0,
+            "flex_align": "align--middle-center",
+            "text_color": "text-dark"
+          }
+        },
+        "index-image-with-text": {
+          "type": "index-image-with-text",
+          "settings": {
+            "color": "#545454",
+            "background": "#f7f7f7",
+            "height": "screen-height-one-half",
+            "overlay_opacity": 0
+          }
+        },
+        "index-map": {
+          "type": "index-map",
+          "settings": {}
+        },
+        "index-slideshow": {
+          "type": "index-slideshow",
+          "blocks": {
+            "index-slideshow-0": {
+              "type": "image",
+              "settings": {
+                "overlay_opacity": 0,
+                "text_color": "text-dark"
+              }
+            },
+            "index-slideshow-1": {
+              "type": "image",
+              "settings": {
+                "overlay_opacity": 0,
+                "text_color": "text-dark"
+              }
+            }
+          },
+          "block_order": [
+            "index-slideshow-0",
+            "index-slideshow-1"
+          ],
+          "settings": {
+            "autoplay": false,
+            "autoplay_speed": 8,
+            "height": "screen-height-one-half"
+          }
+        },
+        "index-collections-list": {
+          "type": "index-collections-list",
+          "blocks": {
+            "index-collections-list-0": {
+              "type": "collection",
+              "settings": {}
+            },
+            "index-collections-list-1": {
+              "type": "collection",
+              "settings": {}
+            },
+            "index-collections-list-2": {
+              "type": "collection",
+              "settings": {}
+            },
+            "index-collections-list-3": {
+              "type": "collection",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "index-collections-list-0",
+            "index-collections-list-1",
+            "index-collections-list-2",
+            "index-collections-list-3"
+          ],
+          "settings": {
+            "title": "Collections"
+          }
+        },
+        "index-background-video": {
+          "type": "index-background-video",
+          "settings": {
+            "overlay_opacity": 65
+          }
+        },
+        "index-look": {
+          "type": "index-look",
+          "blocks": {
+            "index-look-0": {
+              "type": "product",
+              "settings": {}
+            },
+            "index-look-1": {
+              "type": "product",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "index-look-0",
+            "index-look-1"
+          ],
+          "settings": {}
+        },
+        "index-testimonials": {
+          "type": "index-testimonials",
+          "blocks": {
+            "index-testimonial-0": {
+              "type": "testimonial",
+              "settings": {
+                "title": "Mark Corrigan"
+              }
+            },
+            "index-testimonial-1": {
+              "type": "testimonial",
+              "settings": {
+                "title": "Jeremy Usborne"
+              }
+            }
+          },
+          "block_order": [
+            "index-testimonial-0",
+            "index-testimonial-1"
+          ],
+          "settings": {}
+        },
+        "index-products": {
+          "type": "index-products",
+          "settings": {}
+        },
+        "index-blog": {
+          "type": "index-blog",
+          "settings": {}
+        },
+        "index-rich-text": {
+          "type": "index-rich-text",
+          "settings": {}
+        },
+        "index-newsletter": {
+          "type": "index-newsletter",
+          "settings": {}
+        }
+      },
+      "content_for_index": [
+        "index-hero",
+        "index-collections-list",
+        "index-image-with-text",
+        "index-products",
+        "index-testimonials",
+        "index-map",
+        "index-background-video",
+        "index-rich-text",
+        "index-slideshow",
+        "index-blog",
+        "index-look",
+        "index-newsletter"
+      ]
+    },
+    "Modern": {
+      "text_color": "#2b2b2b",
+      "bg_color": "#ffffff",
+      "secondary_bg_color": "#f7f9fa",
+      "accent_bright": "#007efc",
+      "accent_secondary": "#2B2B2B",
+      "site_border_color": "#f3f3f3",
+      "link_color": "#2b333b",
+      "link_hover_color": "#007efc",
+      "header_bg": "#ffffff",
+      "header_link": "#3b434b",
+      "header_link_hover": "#007efc",
+      "menu_bg_color": "#2b2b2b",
+      "menu_border_color": "#2b2b2b",
+      "menu_link_color": "#ffffff",
+      "menu_link_hover_color": "#c8e4f2",
+      "submenu_bg_color": "#2b2b2b",
+      "submenu_link_color": "#ffffff",
+      "submenu_link_hover_color": "#c8e4f2",
+      "footer_bg": "#1f1f1f",
+      "footer_text": "#ffffff",
+      "footer_link": "#e1e1e1",
+      "footer_link_hover": "#808080",
+      "type_heading_font": "monotype_news_gothic_n4",
+      "type_heading_size": 100,
+      "type_base_font": "monotype_news_gothic_n4",
+      "type_body_size": 95,
+      "animations_enable": false,
+      "image_hover_enable": false,
+      "sale_tags_enable": true,
+      "sale_background_color": "#ed6161",
+      "sale_text_color": "#ffffff",
+      "show_promo_modal": false,
+      "promo_dev_mode": false,
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "checkout_body_background_color": "#fff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_color": "#fafafa",
+      "checkout_heading_font": "Open Sans",
+      "checkout_body_font": "Open Sans",
+      "checkout_accent_color": "#007efc",
+      "checkout_button_color": "#007efc",
+      "checkout_error_color": "#ed6161",
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "show_header_social": true,
+            "show_header_search": true,
+            "show_account": true,
+            "message": false,
+            "color_bg": "#efeeec",
+            "color_text": "#545454",
+            "menu_primary": "main-menu"
+          }
+        },
+        "product": {
+          "type": "product",
+          "blocks": {
+            "product-tab-1": {
+              "type": "tab_richtext",
+              "settings": {
+                "title": "First",
+                "raw_content": "<p>This tab content type will accept <strong>rich text<\/strong> to help with adding styles and links to additional pages or content. Use this to add supplementary information to help your buyers.<\/p>"
+              }
+            },
+            "product-tab-2": {
+              "type": "tab_richtext",
+              "settings": {
+                "title": "Second",
+                "raw_content": "<p>This tab content type will accept <strong>rich text<\/strong> to help with adding styles and links to additional pages or content. Use this to add supplementary information to help your buyers.<\/p>"
+              }
+            },
+            "product-tab-3": {
+              "type": "tab_richtext",
+              "settings": {
+                "title": "Third",
+                "raw_content": "<p>This tab content type will accept <strong>rich text<\/strong> to help with adding styles and links to additional pages or content. Use this to add supplementary information to help your buyers.<\/p>"
+              }
+            }
+          },
+          "block_order": [
+            "product-tab-1",
+            "product-tab-2",
+            "product-tab-3"
+          ],
+          "settings": {
+            "image_layout": "thumbnails",
+            "product_sticky_enable": false,
+            "show_breadcrumbs": true,
+            "show_share_buttons": false,
+            "product_show_vendor": false,
+            "show_payment_button": true,
+            "tabs_enable": false
+          }
+        },
+        "page-contact": {
+          "type": "page-contact",
+          "blocks": {
+            "contact-1": {
+              "type": "text",
+              "settings": {
+                "title": "Full Name"
+              }
+            },
+            "contact-2": {
+              "type": "email",
+              "settings": {
+                "title": "Email"
+              }
+            },
+            "contact-3": {
+              "type": "body",
+              "settings": {
+                "title": "Message"
+              }
+            },
+            "contact-4": {
+              "type": "spacer",
+              "settings": {
+                "line": false
+              }
+            },
+            "contact-5": {
+              "type": "formHeading",
+              "settings": {
+                "title": "Optional:"
+              }
+            },
+            "contact-6": {
+              "type": "checkbox",
+              "settings": {
+                "title": "Subscribe to the newsletter"
+              }
+            },
+            "contact-7": {
+              "type": "select",
+              "settings": {
+                "title": "How did you hear about us:",
+                "label-one": "- Pick an option -",
+                "label-two": "Instagram \/ Facebook",
+                "label-three": "Web search",
+                "label-four": "Print Ad",
+                "label-five": "From a friend",
+                "label-six": ""
+              }
+            }
+          },
+          "block_order": [
+            "contact-1",
+            "contact-2",
+            "contact-3",
+            "contact-4",
+            "contact-5",
+            "contact-6",
+            "contact-7"
+          ],
+          "settings": {
+            "title": ""
+          }
+        },
+        "index-hero": {
+          "type": "index-hero",
+          "settings": {
+            "parallax": false,
+            "height": "screen-height-two-thirds",
+            "overlay_opacity": 0,
+            "flex_align": "align--middle-center",
+            "text_color": "text-dark"
+          }
+        },
+        "index-image-with-text": {
+          "type": "index-image-with-text",
+          "settings": {
+            "color": "#282c2e",
+            "background": "#f7f9fa",
+            "height": "screen-height-one-half",
+            "overlay_opacity": 0
+          }
+        },
+        "index-map": {
+          "type": "index-map",
+          "settings": {}
+        },
+        "index-slideshow": {
+          "type": "index-slideshow",
+          "blocks": {
+            "index-slideshow-0": {
+              "type": "image",
+              "settings": {}
+            },
+            "index-slideshow-1": {
+              "type": "image",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "index-slideshow-0",
+            "index-slideshow-1"
+          ],
+          "settings": {
+            "autoplay": false,
+            "autoplay_speed": 8,
+            "height": "screen-height-one-half"
+          }
+        },
+        "index-collections-list": {
+          "type": "index-collections-list",
+          "blocks": {
+            "index-collections-list-0": {
+              "type": "collection",
+              "settings": {}
+            },
+            "index-collections-list-1": {
+              "type": "collection",
+              "settings": {}
+            },
+            "index-collections-list-2": {
+              "type": "collection",
+              "settings": {}
+            },
+            "index-collections-list-3": {
+              "type": "collection",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "index-collections-list-0",
+            "index-collections-list-1",
+            "index-collections-list-2",
+            "index-collections-list-3"
+          ],
+          "settings": {
+            "title": "Collections"
+          }
+        },
+        "index-background-video": {
+          "type": "index-background-video",
+          "settings": {
+            "overlay_opacity": 65
+          }
+        },
+        "index-look": {
+          "type": "index-look",
+          "blocks": {
+            "index-look-0": {
+              "type": "product",
+              "settings": {}
+            },
+            "index-look-1": {
+              "type": "product",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "index-look-0",
+            "index-look-1"
+          ],
+          "settings": {}
+        },
+        "index-testimonials": {
+          "type": "index-testimonials",
+          "blocks": {
+            "index-testimonial-0": {
+              "type": "testimonial",
+              "settings": {
+                "title": "Mark Corrigan"
+              }
+            },
+            "index-testimonial-1": {
+              "type": "testimonial",
+              "settings": {
+                "title": "Jeremy Usborne"
+              }
+            }
+          },
+          "block_order": [
+            "index-testimonial-0",
+            "index-testimonial-1"
+          ],
+          "settings": {}
+        },
+        "index-products": {
+          "type": "index-products",
+          "settings": {}
+        },
+        "index-blog": {
+          "type": "index-blog",
+          "settings": {}
+        },
+        "index-rich-text": {
+          "type": "index-rich-text",
+          "settings": {}
+        },
+        "index-newsletter": {
+          "type": "index-newsletter",
+          "settings": {}
+        }
+      },
+      "content_for_index": [
+        "index-hero",
+        "index-collections-list",
+        "index-image-with-text",
+        "index-products",
+        "index-testimonials",
+        "index-map",
+        "index-background-video",
+        "index-rich-text",
+        "index-slideshow",
+        "index-blog",
+        "index-look",
+        "index-newsletter"
+      ]
+    },
+    "Bold": {
+      "text_color": "#040f0f",
+      "bg_color": "#ffffff",
+      "secondary_bg_color": "#f7f7f7",
+      "accent_bright": "#248232",
+      "accent_secondary": "#418383",
+      "site_border_color": "#f7f7f7",
+      "link_color": "#418383",
+      "link_hover_color": "#165858",
+      "header_bg": "#040f0f",
+      "header_link": "#ffffff",
+      "header_link_hover": "#cfe0d3",
+      "menu_bg_color": "#040f0f",
+      "menu_border_color": "#040f0f",
+      "menu_link_color": "#ffffff",
+      "menu_link_hover_color": "#cfe0d3",
+      "submenu_bg_color": "#040f0f",
+      "submenu_link_color": "#ffffff",
+      "submenu_link_hover_color": "#7a9f82",
+      "menu_transparent_color": "#ffffff",
+      "footer_bg": "#040f0f",
+      "footer_text": "#ffffff",
+      "footer_link": "#ffffff",
+      "footer_link_hover": "#74937c",
+      "type_heading_font": "cardo_n7",
+      "type_heading_size": 95,
+      "type_base_font": "harmonia_sans_n4",
+      "type_body_size": 100,
+      "animations_enable": true,
+      "image_hover_enable": false,
+      "sale_tags_enable": true,
+      "sale_background_color": "#444444",
+      "sale_text_color": "#ffffff",
+      "show_promo_modal": false,
+      "promo_dev_mode": false,
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "checkout_body_background_color": "#fff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_color": "#fafafa",
+      "checkout_heading_font": "Open Sans",
+      "checkout_body_font": "Open Sans",
+      "checkout_accent_color": "#248232",
+      "checkout_button_color": "#268686",
+      "checkout_error_color": "#8b3f3f",
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "show_header_social": true,
+            "show_header_search": true,
+            "show_account": true,
+            "message": false,
+            "color_bg": "#101A26",
+            "color_text": "#EEEEEE",
+            "menu_primary": "main-menu"
+          }
+        },
+        "product": {
+          "type": "product",
+          "blocks": {
+            "product-tab-1": {
+              "type": "tab_richtext",
+              "settings": {
+                "title": "First",
+                "raw_content": "<p>This tab content type will accept <strong>rich text<\/strong> to help with adding styles and links to additional pages or content. Use this to add supplementary information to help your buyers.<\/p>"
+              }
+            },
+            "product-tab-2": {
+              "type": "tab_richtext",
+              "settings": {
+                "title": "Second",
+                "raw_content": "<p>This tab content type will accept <strong>rich text<\/strong> to help with adding styles and links to additional pages or content. Use this to add supplementary information to help your buyers.<\/p>"
+              }
+            },
+            "product-tab-3": {
+              "type": "tab_richtext",
+              "settings": {
+                "title": "Third",
+                "raw_content": "<p>This tab content type will accept <strong>rich text<\/strong> to help with adding styles and links to additional pages or content. Use this to add supplementary information to help your buyers.<\/p>"
+              }
+            }
+          },
+          "block_order": [
+            "product-tab-1",
+            "product-tab-2",
+            "product-tab-3"
+          ],
+          "settings": {
+            "image_layout": "stacked",
+            "product_sticky_enable": true,
+            "show_breadcrumbs": true,
+            "show_share_buttons": true,
+            "product_show_vendor": false,
+            "show_payment_button": true,
+            "tabs_enable": true
+          }
+        },
+        "page-contact": {
+          "type": "page-contact",
+          "blocks": {
+            "contact-1": {
+              "type": "text",
+              "settings": {
+                "title": "Full Name"
+              }
+            },
+            "contact-2": {
+              "type": "email",
+              "settings": {
+                "title": "Email"
+              }
+            },
+            "contact-3": {
+              "type": "body",
+              "settings": {
+                "title": "Message"
+              }
+            },
+            "contact-4": {
+              "type": "spacer",
+              "settings": {
+                "line": false
+              }
+            },
+            "contact-5": {
+              "type": "formHeading",
+              "settings": {
+                "title": "Optional:"
+              }
+            },
+            "contact-6": {
+              "type": "checkbox",
+              "settings": {
+                "title": "Subscribe to the newsletter"
+              }
+            },
+            "contact-7": {
+              "type": "select",
+              "settings": {
+                "title": "How did you hear about us:",
+                "label-one": "- Pick an option -",
+                "label-two": "Instagram \/ Facebook",
+                "label-three": "Web search",
+                "label-four": "Print Ad",
+                "label-five": "From a friend",
+                "label-six": ""
+              }
+            }
+          },
+          "block_order": [
+            "contact-1",
+            "contact-2",
+            "contact-3",
+            "contact-4",
+            "contact-5",
+            "contact-6",
+            "contact-7"
+          ],
+          "settings": {
+            "title": ""
+          }
+        },
+        "index-hero": {
+          "type": "index-hero",
+          "settings": {
+            "parallax": false,
+            "height": "screen-height-two-thirds",
+            "overlay_opacity": 0,
+            "flex_align": "align--middle-center",
+            "text_color": "text-dark"
+          }
+        },
+        "index-image-with-text": {
+          "type": "index-image-with-text",
+          "settings": {
+            "color": "#2d2d2d",
+            "background": "#f5f2ef",
+            "height": "screen-height-one-half",
+            "overlay_opacity": 0
+          }
+        },
+        "index-map": {
+          "type": "index-map",
+          "settings": {}
+        },
+        "index-slideshow": {
+          "type": "index-slideshow",
+          "blocks": {
+            "index-slideshow-0": {
+              "type": "image",
+              "settings": {}
+            },
+            "index-slideshow-1": {
+              "type": "image",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "index-slideshow-0",
+            "index-slideshow-1"
+          ],
+          "settings": {
+            "autoplay": false,
+            "autoplay_speed": 8,
+            "height": "screen-height-one-half"
+          }
+        },
+        "index-collections-list": {
+          "type": "index-collections-list",
+          "blocks": {
+            "index-collections-list-0": {
+              "type": "collection",
+              "settings": {}
+            },
+            "index-collections-list-1": {
+              "type": "collection",
+              "settings": {}
+            },
+            "index-collections-list-2": {
+              "type": "collection",
+              "settings": {}
+            },
+            "index-collections-list-3": {
+              "type": "collection",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "index-collections-list-0",
+            "index-collections-list-1",
+            "index-collections-list-2",
+            "index-collections-list-3"
+          ],
+          "settings": {
+            "title": "Collections"
+          }
+        },
+        "index-background-video": {
+          "type": "index-background-video",
+          "settings": {
+            "overlay_opacity": 65
+          }
+        },
+        "index-look": {
+          "type": "index-look",
+          "blocks": {
+            "index-look-0": {
+              "type": "product",
+              "settings": {}
+            },
+            "index-look-1": {
+              "type": "product",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "index-look-0",
+            "index-look-1"
+          ],
+          "settings": {}
+        },
+        "index-testimonials": {
+          "type": "index-testimonials",
+          "blocks": {
+            "index-testimonial-0": {
+              "type": "testimonial",
+              "settings": {
+                "title": "Mark Corrigan"
+              }
+            },
+            "index-testimonial-1": {
+              "type": "testimonial",
+              "settings": {
+                "title": "Jeremy Usborne"
+              }
+            }
+          },
+          "block_order": [
+            "index-testimonial-0",
+            "index-testimonial-1"
+          ],
+          "settings": {}
+        },
+        "index-products": {
+          "type": "index-products",
+          "settings": {}
+        },
+        "index-blog": {
+          "type": "index-blog",
+          "settings": {}
+        },
+        "index-rich-text": {
+          "type": "index-rich-text",
+          "settings": {}
+        },
+        "index-newsletter": {
+          "type": "index-newsletter",
+          "settings": {}
+        }
+      },
+      "content_for_index": [
+        "index-hero",
+        "index-collections-list",
+        "index-image-with-text",
+        "index-products",
+        "index-testimonials",
+        "index-map",
+        "index-background-video",
+        "index-rich-text",
+        "index-slideshow",
+        "index-blog",
+        "index-look",
+        "index-newsletter"
+      ]
+    }
+  }
+}

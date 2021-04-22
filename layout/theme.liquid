@@ -1,0 +1,146 @@
+<!doctype html>
+<!--[if IE 9]> <html class="ie9 no-js supports-no-cookies{% if settings.layout_container_enable %} container-layout{% endif %}" lang="{{ shop.locale }}"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html class="no-js supports-no-cookies{% if settings.layout_container_enable %} container-layout{% endif %}" lang="{{ shop.locale }}"> <!--<![endif]-->
+<head>
+  <meta name="facebook-domain-verification" content="3o6oe4zeu9b9br1c8sufq7iwwm1h5x" />
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="{{ settings.accent_secondary }}">
+  <link rel="canonical" href="{{ canonical_url }}">
+
+  {% if settings.favicon %}
+    <link rel="shortcut icon" href="{{ settings.favicon | img_url: '32x32' }}" type="image/png" />
+  {% endif %}
+
+  {% capture seo_title %}
+    {{ page_title }}
+    {% if current_tags %}
+      {%- assign meta_tags = current_tags | join: ', ' %} &ndash; {{ 'general.meta.tags' | t: tags: meta_tags -}}
+    {% endif %}
+    {% if current_page != 1 %}
+      &ndash; {{ 'general.meta.page' | t: page: current_page }}
+    {% endif %}
+    {% unless page_title contains shop.name %}
+      &ndash; {{ shop.name }}
+    {% endunless %}
+  {% endcapture %}
+  <title>{{ seo_title }}</title>
+
+  {% if page_description %}
+    <meta name="description" content="{{ page_description | escape }}">
+  {% endif %}
+
+  {% include 'social-meta' %}
+
+  {{ 'theme.scss.css' | asset_url | stylesheet_tag }}
+  
+   <link rel="stylesheet" href="https://use.typekit.net/ubi8hcj.css">
+    <link rel="stylesheet" href="https://use.typekit.net/zbb4pel.css">
+
+ 
+
+  <script>
+    document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+
+    window.theme = {
+      strings: {
+        addToCart: {{ 'products.product.add_to_cart' | t | json }},
+        soldOut: {{ 'products.product.sold_out' | t | json }},
+        unavailable: {{ 'products.product.unavailable' | t | json }}
+      },
+      shop: {
+        assets: "{{ 'nothing.jpg' | asset_url | split: 'nothing.jpg' | first }}"
+      },
+      moneyFormat: {{ shop.money_format | json }},
+      version: '1.5.2'
+    };
+  </script>
+
+  {% if template.directory == 'customers' %}
+    <!--[if (gt IE 9)|!(IE)]><!--><script src="{{ 'shopify_common.js' | shopify_asset_url }}" defer="defer"></script><!--<![endif]-->
+    <!--[if lte IE 9]><script src="{{ 'shopify_common.js' | shopify_asset_url }}"></script><![endif]-->
+  {% endif %}
+
+  <!--[if (gt IE 9)|!(IE)]><!--><script src="{{ 'head.js' | asset_url }}"></script><!--<![endif]-->
+  <!--[if lt IE 9]><script src="{{ 'head.js' | asset_url }}"></script><![endif]-->
+
+  <!--[if (gt IE 9)|!(IE)]><!--><script src="{{ 'theme.js' | asset_url }}" defer="defer"></script><!--<![endif]-->
+  <!--[if lt IE 9]><script src="{{ 'theme.js' | asset_url }}"></script><![endif]-->
+
+  {{ content_for_header }}
+
+  {% if settings.enable_yotpo and settings.enable_product_reviews and settings.yotpo_ID != '' %}
+    {% include 'yotpo-script' %}
+  {% endif %}
+  {{ 'shopstorm-apps.scss.css' | asset_url | stylesheet_tag }}
+  {% include 'shopstorm-scripttags' %}
+  <script src="https://cdn.attn.tv/annabeck/dtag.js"></script>
+
+
+  
+
+  {% render 'shogun-head' %}
+
+                  {% include 'bss-product-labels-configs' %}
+                    </head>
+             
+<body id="{{ page_title | handle }}" class="template-{{ template.name | handle }}{% if customer %} customer-logged-in{% endif %}" data-promo="{{ settings.show_promo_modal }}" data-animations="{{ settings.animations_enable }}" data-endless-scroll="{{ settings.endless_scroll }}">
+
+  <a class="in-page-link visually-hidden skip-link" href="#MainContent">{{ 'general.accessibility.skip_to_content' | t }}</a>
+
+  <div class="container" id="SiteContainer">
+    {% section 'header' %}
+
+    <!-- CONTENT -->
+    <main role="main" id="MainContent" class="main-content">
+
+      {{ content_for_layout }}
+
+    </main>
+  </div>
+
+  {% section 'footer' %}
+
+  {{ 'api.jquery.js' | shopify_asset_url | script_tag }}
+
+  {%- if template.name == 'article' or template.name == 'blog' -%}
+    {% if settings.enable_disqus %}
+      {% include 'disqus' %}
+    {% endif %}
+  {%- endif -%}
+
+  <script>Shopify.money_format = '{{ shop.money_format }}';</script>
+
+  {% if settings.show_multiple_currencies %}
+    {% include 'currencies' %}
+  {% endif %}
+
+{% render 'preorder-now' %}
+  {% render 'upsell-now', customer: customer, product: product, template: template, cart: cart %}
+{% if template contains "product" %}{% render "product-personalizer" %}{% endif %}</html>
+
+<!-- Begin Shopify-Afterpay JavaScript Snippet (v1.0.8) -->
+<script type="text/javascript">
+// Overrides:
+// var afterpay_min = 0.04;            // As per your Afterpay contract.
+// var afterpay_max = 2000.00;         // As per your Afterpay contract.
+// var afterpay_cbt_enabled = false;   // As per your Afterpay contract; change to true to display Cross-Border Trade artwork (for AU/NZ).
+// var afterpay_logo_theme = 'colour'; // Can be 'colour', 'black' or 'white'.
+// var afterpay_product_selector = '#product-price-selector';
+// var afterpay_cart_integration_enabled = true;
+// var afterpay_cart_static_selector = '#cart-subtotal-selector';
+
+// Non-editable fields:
+var afterpay_shop_currency = {{ shop.currency | json }};
+var afterpay_cart_currency = {{ cart.currency.iso_code | json }};
+var afterpay_shop_money_format = {{ shop.money_format | json }};
+var afterpay_shop_permanent_domain = {{ shop.permanent_domain | json }};
+var afterpay_theme_name = {{ theme.name | json }};
+var afterpay_product = {{ product | json }};
+var afterpay_current_variant = {{ product.selected_or_first_available_variant | json }};
+var afterpay_cart_total_price = {{ cart.total_price | json }};
+var afterpay_js_snippet_version = '1.0.8';
+</script>
+<script type="text/javascript" src="https://static.afterpay.com/shopify-afterpay-javascript.js"></script>
+<!-- End Shopify-Afterpay JavaScript Snippet (v1.0.8) -->
